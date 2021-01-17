@@ -1,4 +1,8 @@
-li {
+/* body {
+  background-color: crimson;
+
+} */
+  li {
     padding: 5px;
     margin: 5px;
     background: #faebd7;
@@ -17,3 +21,13 @@ li {
   .form-group {
     margin-bottom: 5px;
   }
+
+  h1{
+
+    text-align: center;
+  }
+
+  .addburg{
+    width: 50%;
+    margin: auto;
+    }
