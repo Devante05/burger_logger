@@ -6,7 +6,8 @@
     padding: 5px;
     margin: 5px;
     background: #faebd7;
-  }
+    list-style: none;
+   }
   
   .label {
     font-weight: bold;
