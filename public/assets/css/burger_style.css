@@ -32,3 +32,9 @@
     width: 50%;
     margin: auto;
     }
+
+    img {
+      width: 150x;
+      height: 150px;
+      margin-left: 640px;
+    }
